@@ -2,7 +2,7 @@
 
 Você pode testar o aplicativo diretamente pelo Expo com o link abaixo:
 
-🔗 [Clique aqui para abrir no Expo](https://expo.dev/accounts/mayconasd/projects/INDIKA_OFICIAL/builds/a04128c3-ea63-4c8c-8d8a-e4ddb2771cd1)
+🔗 [Clique aqui para abrir no Expo](https://expo.dev/accounts/mayconasd/projects/INDIKA_OFICIAL/builds/e5e08275-8226-47fe-b279-91a946733448)
 
 ---
 
