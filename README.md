@@ -1,3 +1,19 @@
+## 📲 Acesso ao Aplicativo
+
+Você pode testar o aplicativo diretamente pelo Expo com o link abaixo:
+
+🔗 [Clique aqui para abrir no Expo](https://expo.dev/accounts/mayconasd/projects/INDIKA_OFICIAL/builds/a04128c3-ea63-4c8c-8d8a-e4ddb2771cd1)
+
+---
+
+## ✅ (Opcional) Adicionar botão visual
+
+Você também pode adicionar um botão usando markdown com badge:
+
+```markdown
+[![Testar no Expo](https://img.shields.io/badge/Abrir%20no%20Expo-INDIKA_OFICIAL-blue?style=for-the-badge&logo=expo)](https://expo.dev/accounts/mayconasd/projects/INDIKA_OFICIAL/builds/a04128c3-ea63-4c8c-8d8a-e4ddb2771cd1)
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
